@@ -1,0 +1,44 @@
+/* .carousel-item{
+    height: ;
+} */
+/* .container-fluid{
+background-color: green;
+} */
+.container{
+    font-family: 'Dancing Script', cursive;
+}
+.rod{
+    background-color: rgb(237, 174, 96);
+}
+.carousel-item{
+        width: 100%;
+        height: 100vh;
+        background-size: cover;
+}
+.card-body{
+    min-width:50%;
+    max-height: 200px;
+}
+.heading{
+    font-family: "Roboto";
+    color: blue;
+}
+.para{
+    font-family: "roboto";
+    color: grey;
+}
+.img{
+    height: 200px;
+    width: 200px;
+
+}
+.nav-item:hover{
+        background-color:rgb(82, 215, 82);
+
+}
+.sticky
+{
+    position: fixed;
+    top:0;
+    width:100%
+}
